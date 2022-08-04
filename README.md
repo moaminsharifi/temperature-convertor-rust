@@ -1,3 +1,4 @@
+# Temperature Convertor, Fahrenheit to Celsius and vise versa with Rust
 ## 1. install rust on your machine 
 best document for install is own [Rust documention](https://www.rust-lang.org/tools/install)
 
